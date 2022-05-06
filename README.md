@@ -15,5 +15,6 @@ Execute this command:<br>
     * **m** - minutes
     * **h** - hours  
 
-* Before downloading script do note that the following script will create a **scrot_screenshot** directory in your current directory if its not already present where you can see all your saved images according to the time interval you provided to the script
+* The following script will create a directory named **scrot_screenshot** in your **current working directory** where all the *screenshots* will be saved.
+### IMPORTANT
 
