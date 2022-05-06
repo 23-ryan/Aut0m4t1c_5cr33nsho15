@@ -6,6 +6,8 @@ First of all you need to install a package called **scrot**, so that you will be
 Execute this command:<br>
 `sudo apt install scrot`
 
+Download the [script]() from here
+
 ## NOTE
 * This script is designed to take the screenshots of your current working screen according to a defined interval.
 * The **time-step** can be defined by passing **command line arguments**:
@@ -15,6 +17,8 @@ Execute this command:<br>
     * **m** - minutes
     * **h** - hours  
 
-* The following script will create a directory named **scrot_screenshot** in your **current working directory** where all the *screenshots* will be saved.
+* The following script will create a directory named **scrot_screenshots** in your **current working directory** where all the *screenshots* will be saved.
+* 
 ### IMPORTANT
-
+* Whenever you run the script it will ***delete*** all the previous screenshots present in the **scrot_screenshots** directory and add the new screenshots.
+*  
