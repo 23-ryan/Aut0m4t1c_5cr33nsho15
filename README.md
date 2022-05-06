@@ -1,9 +1,9 @@
 # Aut0m4t1c_5cr33nsho15
 
-PLease read these instruction to prevent yourself from mugging-up(Do read the important section).<br>
+PLease read these **instruction** to prevent yourself from **mugging-up** (Do read the **IMPORTANT** section).<br>
 First of all you need to install a package called **scrot**, so that you will be able to take screenshots from your terminal.<br>
 
-Execute this command:<br>
+**Execute** this command:<br>
 `sudo apt install scrot`
 
 Collect the [script](https://github.com/23aryanmathe/Aut0m4t1c_5cr33nsho15/blob/cf9e6a85c3bcc94c99af6de483f7ac4e69895fb1/timed_scrshoot.sh) from here
